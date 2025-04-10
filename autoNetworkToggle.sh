@@ -8,7 +8,7 @@
 #              is disconnected, Wi-Fi is enabled.
 #
 # Author: Darixn (https://github.com/darixn)
-# Inspired by: https://gist.github.com/albertbori/1798d88a93175b9da00b
+# Based on the work : https://gist.github.com/albertbori/1798d88a93175b9da00b
 #
 # Created: Dec2024
 # Last Modified: Dec2024
